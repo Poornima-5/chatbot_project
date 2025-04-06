@@ -14,7 +14,7 @@ This chatbot helps users with queries related to Google tools. Built with Flask 
    python -c "import secrets; print(secrets.token_hex(16))"
 ```
 
-  -add this secret key to the "FLASK_SECRET_KEY" in the env file in the code
+  -add this secret key to the `"FLASK_SECRET_KEY"` in the env file in the code
 
 
   
